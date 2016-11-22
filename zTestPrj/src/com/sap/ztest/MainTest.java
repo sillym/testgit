@@ -38,6 +38,7 @@ public class MainTest {
         fr.read(cbuf);
         String ibcXML = new String(cbuf.array());
 		System.out.println(ibcXML);
+		
 		fr.close();
 		
 		
