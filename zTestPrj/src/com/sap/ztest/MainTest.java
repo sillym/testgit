@@ -15,6 +15,7 @@ public class MainTest {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 		// --
+		// sdkf
 		String xml = "<?xml version=\"1.0\" encoding=\"UTF-8\"?><dongguancyy><no.8><fhID=\"我null\"></fh></no.8></dongguancyy>";
 		System.out.println(xml);
 		File file = new File("/Users/i335912/Documents/test.xml");
